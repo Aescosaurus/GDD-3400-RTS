@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanningAgent", "PlanningAgent.csproj", "{312CC65E-AB35-4DB2-9ED3-FB02A013D687}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CC901DD8-B70F-448D-9D06-999DC892B3DD} = {CC901DD8-B70F-448D-9D06-999DC892B3DD}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceUnityToReleaseDLL", "..\ForceUnityToReleaseDLL\ForceUnityToReleaseDLL.csproj", "{CC901DD8-B70F-448D-9D06-999DC892B3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312CC65E-AB35-4DB2-9ED3-FB02A013D687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312CC65E-AB35-4DB2-9ED3-FB02A013D687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312CC65E-AB35-4DB2-9ED3-FB02A013D687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312CC65E-AB35-4DB2-9ED3-FB02A013D687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC901DD8-B70F-448D-9D06-999DC892B3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC901DD8-B70F-448D-9D06-999DC892B3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC901DD8-B70F-448D-9D06-999DC892B3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC901DD8-B70F-448D-9D06-999DC892B3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374384D8-5DC0-4A83-B401-45F197C7D7F8}
+	EndGlobalSection
+EndGlobal

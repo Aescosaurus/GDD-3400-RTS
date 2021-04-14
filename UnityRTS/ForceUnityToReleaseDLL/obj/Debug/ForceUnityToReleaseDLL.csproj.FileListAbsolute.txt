@@ -1,0 +1,37 @@
+E:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\bin\Debug\ForceUnityToReleaseDLL.dll
+E:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\bin\Debug\ForceUnityToReleaseDLL.pdb
+E:\Git\GDD3400_RTS\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+E:\Git\GDD3400_RTS\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.pdb
+E:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.csproj.CoreCompileInputs.cache
+E:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.dll
+E:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.pdb
+D:\Repositories\3400 RTS\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+D:\Repositories\3400 RTS\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.pdb
+D:\Repositories\3400 RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.csprojResolveAssemblyReference.cache
+D:\Repositories\3400 RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.csproj.CoreCompileInputs.cache
+D:\Repositories\3400 RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.dll
+D:\Repositories\3400 RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.pdb
+D:\Git\GDD3400_RTS\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+D:\Git\GDD3400_RTS\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.pdb
+D:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.csproj.CoreCompileInputs.cache
+D:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.dll
+D:\Git\GDD3400_RTS\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.pdb
+D:\Git\GDD3400_RTS_SP19\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+D:\Git\GDD3400_RTS_SP19\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.pdb
+D:\Git\GDD3400_RTS_SP19\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.csproj.CoreCompileInputs.cache
+D:\Git\GDD3400_RTS_SP19\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.dll
+D:\Git\GDD3400_RTS_SP19\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.pdb
+E:\Git\GDD3400_RTS-SP19\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+E:\Git\GDD3400_RTS-SP19\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.pdb
+E:\Git\GDD3400_RTS-SP19\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.csproj.CoreCompileInputs.cache
+E:\Git\GDD3400_RTS-SP19\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.dll
+E:\Git\GDD3400_RTS-SP19\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.pdb
+E:\Git\GDD3400_RTS-SP20\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+E:\Git\GDD3400_RTS-SP20\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.pdb
+E:\Git\GDD3400_RTS-SP20\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.dll
+E:\Git\GDD3400_RTS-SP20\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.pdb
+C:\Users\Aesc\Desktop\GDD3400_RTS_SP20-master\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+C:\Users\Aesc\Desktop\GDD3400_RTS_SP20-master\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.pdb
+C:\Users\Aesc\Desktop\GDD3400_RTS_SP20-master\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.csproj.CoreCompileInputs.cache
+C:\Users\Aesc\Desktop\GDD3400_RTS_SP20-master\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.dll
+C:\Users\Aesc\Desktop\GDD3400_RTS_SP20-master\UnityRTS\ForceUnityToReleaseDLL\obj\Debug\ForceUnityToReleaseDLL.pdb
